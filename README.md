@@ -16,7 +16,7 @@
 - Chuyển đổi từ file `Assignment_report.pdf`.
 
 ### 3. 📊 `Data_Mining_Final_a.ipynb`
-- File **Jupyter Notebook** chứa mã nguồn xử lý và giải bài toán **phân cụm (clustering)**. link: https://colab.research.google.com/drive/1t-lmLD5ZMZ5G46xFEjBkSCHMTQG7HquO?usp=sharing
+- 📊 File **Jupyter Notebook** chứa toàn bộ mã nguồn xử lý và giải bài toán **phân cụm (clustering)**. 👉 Bạn có thể xem phiên bản đã chạy sẵn (giữ nguyên các output) trên **Google Colab** tại link sau:  [🔗 Mở trên Google Colab](https://colab.research.google.com/drive/1t-lmLD5ZMZ5G46xFEjBkSCHMTQG7HquO?usp=sharing)
 
 ### 4. 📂 `linkedin_job_posting_english_sample.csv`
 - Dataset đã được xử lý từ dataset gốc.
