@@ -27,18 +27,5 @@
 - File mô tả nội dung các tập tin trong thư mục (phiên bản text thuần).
 - Thay thế bằng file `README.md` này cho phiên bản hiển thị đẹp trên GitHub.
 
----
-
-## ✅ Gợi ý hiển thị đẹp hơn trên GitHub
-
-Nếu bạn dùng repo GitHub, hãy đảm bảo:
-- Thêm hình minh hoạ nếu có (`/images`)
-- Chia thư mục rõ ràng: `notebooks/`, `data/`, `reports/`, v.v.
-- Cập nhật mô tả trong phần About của repo để dễ tìm kiếm hơn.
-
----
-
-> ✨ *Cảm ơn bạn đã xem qua README này!*
-
 
 
