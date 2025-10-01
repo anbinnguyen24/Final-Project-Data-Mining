@@ -1,8 +1,7 @@
-# 📘 Data Mining Final Project
-
-**Student ID:** 3122410004  
-**Name:** Nguyễn Văn An  
-**University:** SaiGon University
+## 📘 Data Mining Final Project
+- **Student ID:** 3122410004  
+- **Name:** Nguyễn Văn An  
+- **University:** SaiGon University
 ---
 
 ## 📁 Thư mục đồ án bao gồm 5 tập tin:
