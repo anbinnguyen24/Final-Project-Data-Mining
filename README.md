@@ -5,13 +5,24 @@
 ---
 ## Table of Contents
 * [Đề tài của project](#technologies-used)
-* [README](#-Thư-mục-đồ-án-bao-gồm-5-tập-tin)
+* [Cấu trúc thư mục](#-cấu-trúc-thư-mục)
 
 ## Đề tài
 
 
-## 📁 Thư mục đồ án bao gồm 5 tập tin:
+## 📁 Cấu trúc thư mục:
+```text
+Final-Project-Data-Mining/
+├─ notebooks/
+│  └─ Data_Mining_Final_a.ipynb
+├─ report/
+│  ├─ Assignment_report.docx
+│  └─ Assignment_report.pdf
+├─ README.md
+└─ README.txt
+```
 
+## MÔ TẢ CÁC FILE
 ### 1. 📄 `Assignment_report.pdf`
 - Báo cáo bài tập lớn định dạng **PDF**.
 - Được viết bằng **LaTeX** (dự phòng khi file `.docx` bị lỗi định dạng).
