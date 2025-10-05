@@ -8,7 +8,7 @@
 * [Cấu trúc thư mục](#-cấu-trúc-thư-mục)
 
 ## Đề tài
-
+- Sử dụng phân cụm (clustering) để nhóm các công việc có yêu cầu kỹ năng, tiêu đề, vị trí và địa điểm tương đồng dựa trên dữ liệu được thu thập từ nền tảng Linkedin
 
 ## 📁 Cấu trúc thư mục:
 ```text
