@@ -43,5 +43,8 @@ Final-Project-Data-Mining/
 - File mô tả nội dung các tập tin trong thư mục (phiên bản text thuần).
 - Thay thế bằng file `README.md` này cho phiên bản hiển thị đẹp trên GitHub.
 
+## Tài liệu tham khảo
+> *https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024/data?select=linkedin_job_postings.csv*
+---
 
 
