@@ -6,6 +6,7 @@
 ## Table of Contents
 * [Đề tài của project](#technologies-used)
 * [Cấu trúc thư mục](#-cấu-trúc-thư-mục)
+* [Tài liệu tham khảo](#tài-liệu-tham-khảo)
 
 ## Đề tài
 - Sử dụng phân cụm (clustering) để nhóm các công việc có yêu cầu kỹ năng, tiêu đề, vị trí và địa điểm tương đồng dựa trên dữ liệu được thu thập từ nền tảng Linkedin và đăng lên trên kaggle năm 2024
